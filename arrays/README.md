@@ -1,7 +1,7 @@
 # Arrays
 
 ## What is an Array?
-An array is used to store homogeneous datatypes in contigous manner.
+An array stores homogeneous datatypes in contigous manner.
 Every element will be accessed with an index. 
 
 ## Why Arrays?
