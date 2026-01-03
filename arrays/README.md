@@ -1,12 +1,12 @@
 # Arrays
 
 ## What is an Array?
-An array is a data structure that stores elements of the same type 
-in contiguous memory locations.
+An array is used to store homogeneous datatypes in contigous manner.
+Every element will be accessed with an index. 
 
 ## Why Arrays?
-- Fast index-based access
-- Simple data organization
+- The arrays are used for fast index-based access.
+- They are used for simple data organization.
 
 ## Common Operations
 - Traversal
